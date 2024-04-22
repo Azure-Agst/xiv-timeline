@@ -130,7 +130,7 @@ export function exportTimeline(tl) {
   var encoded = fromByteArray(u8arr);
 
   // let user know
-  alert(window.location.origin + "/?tl=" + encoded);
+  alert(window.location.origin + location.pathname + "?tl=" + encoded);
 }
 
 export function importTimeline(tl, encoded) {
