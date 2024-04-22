@@ -2,3 +2,5 @@ node_modules/
 tools/data/
 tools/icons/
 tools/cache/
+public/bundle.js
+public/bundle.js.map
