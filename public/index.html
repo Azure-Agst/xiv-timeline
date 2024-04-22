@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>XIV timeline viewer</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <h1>XIV Timeline Viewer</h1>
+    <h4>(c) 2024 Andrew "Azure-Agst" Augustine</h4>
+    <p>
+      Loosely based off of miyehn's
+      <a href="https://miyehn.me/ffxiv-blm-rotation/"
+        >Black Mage In The Shell</a
+      >
+      webapp. Written in pure JS babey lets go!
+    </p>
+
+    <label for="classList">Class:</label>
+    <select name="classList" id="classList">
+      <option value="none">Select Class</option>
+    </select>
+    |
+    <label for="level">Level:</label>
+    <input type="number" id="level" name="level" value="90" min="1" max="90" />
+
+    <hr />
+
+    <div id="wrapper">
+      <canvas id="canvas"></canvas>
+    </div>
+    <div id="ctrl-buttons"></div>
+    <div id="icon-buttons"></div>
+    <script src="bundle.js"></script>
+  </body>
+</html>

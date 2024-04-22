@@ -1,0 +1,353 @@
+{
+    "32561": {
+        "name": "Slice",
+        "icon": "icon/reaper/slice.png",
+        "class": "rpr",
+        "level": 1,
+        "type": "Weaponskill",
+        "cast": 0,
+        "recast": 2.5
+    },
+    "32562": {
+        "name": "Waxing Slice",
+        "icon": "icon/reaper/waxing_slice.png",
+        "class": "rpr",
+        "level": 5,
+        "type": "Weaponskill",
+        "cast": 0,
+        "recast": 2.5
+    },
+    "24378": {
+        "name": "Shadow of Death",
+        "icon": "icon/reaper/shadow_of_death.png",
+        "class": "rpr",
+        "level": 10,
+        "type": "Weaponskill",
+        "cast": 0,
+        "recast": 2.5
+    },
+    "32940": {
+        "name": "Harpe",
+        "icon": "icon/reaper/harpe.png",
+        "class": "rpr",
+        "level": 15,
+        "type": "Spell",
+        "cast": 1.3,
+        "recast": 2.5
+    },
+    "29550": {
+        "name": "Hell's Ingress",
+        "icon": "icon/reaper/hells_ingress.png",
+        "class": "rpr",
+        "level": 20,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 20.0
+    },
+    "27818": {
+        "name": "Hell's Egress",
+        "icon": "icon/reaper/hells_egress.png",
+        "class": "rpr",
+        "level": 20,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 20.0
+    },
+    "31789": {
+        "name": "Spinning Scythe",
+        "icon": "icon/reaper/spinning_scythe.png",
+        "class": "rpr",
+        "level": 25,
+        "type": "Weaponskill",
+        "cast": 0,
+        "recast": 2.5
+    },
+    "32563": {
+        "name": "Infernal Slice",
+        "icon": "icon/reaper/infernal_slice.png",
+        "class": "rpr",
+        "level": 30,
+        "type": "Weaponskill",
+        "cast": 0,
+        "recast": 2.5
+    },
+    "24379": {
+        "name": "Whorl of Death",
+        "icon": "icon/reaper/whorl_of_death.png",
+        "class": "rpr",
+        "level": 35,
+        "type": "Weaponskill",
+        "cast": 0,
+        "recast": 2.5
+    },
+    "31793": {
+        "name": "Arcane Crest",
+        "icon": "icon/reaper/arcane_crest.png",
+        "class": "rpr",
+        "level": 40,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 30.0
+    },
+    "31790": {
+        "name": "Nightmare Scythe",
+        "icon": "icon/reaper/nightmare_scythe.png",
+        "class": "rpr",
+        "level": 45,
+        "type": "Weaponskill",
+        "cast": 0,
+        "recast": 2.5
+    },
+    "27810": {
+        "name": "Blood Stalk",
+        "icon": "icon/reaper/blood_stalk.png",
+        "class": "rpr",
+        "level": 50,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 1.0
+    },
+    "29547": {
+        "name": "Grim Swathe",
+        "icon": "icon/reaper/grim_swathe.png",
+        "class": "rpr",
+        "level": 55,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 1.0
+    },
+    "31145": {
+        "name": "Soul Slice",
+        "icon": "icon/reaper/soul_slice.png",
+        "class": "rpr",
+        "level": 60,
+        "type": "Weaponskill",
+        "cast": 0,
+        "recast": 2.5
+    },
+    "31386": {
+        "name": "Soul Scythe",
+        "icon": "icon/reaper/soul_scythe.png",
+        "class": "rpr",
+        "level": 65,
+        "type": "Weaponskill",
+        "cast": 0,
+        "recast": 2.5
+    },
+    "32564": {
+        "name": "Gibbet",
+        "icon": "icon/reaper/gibbet.png",
+        "class": "rpr",
+        "level": 70,
+        "type": "Weaponskill",
+        "cast": 0,
+        "recast": 2.5
+    },
+    "32565": {
+        "name": "Gallows",
+        "icon": "icon/reaper/gallows.png",
+        "class": "rpr",
+        "level": 70,
+        "type": "Weaponskill",
+        "cast": 0,
+        "recast": 2.5
+    },
+    "34786": {
+        "name": "Guillotine",
+        "icon": "icon/reaper/guillotine.png",
+        "class": "rpr",
+        "level": 70,
+        "type": "Weaponskill",
+        "cast": 0,
+        "recast": 2.5
+    },
+    "27811": {
+        "name": "Unveiled Gibbet",
+        "icon": "icon/reaper/unveiled_gibbet.png",
+        "class": "rpr",
+        "level": 70,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 1.0
+    },
+    "27812": {
+        "name": "Unveiled Gallows",
+        "icon": "icon/reaper/unveiled_gallows.png",
+        "class": "rpr",
+        "level": 70,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 1.0
+    },
+    "24405": {
+        "name": "Arcane Circle",
+        "icon": "icon/reaper/arcane_circle.png",
+        "class": "rpr",
+        "level": 72,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 120.0
+    },
+    "29551": {
+        "name": "Regress",
+        "icon": "icon/reaper/regress.png",
+        "class": "rpr",
+        "level": 74,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 10.0
+    },
+    "27814": {
+        "name": "Gluttony",
+        "icon": "icon/reaper/gluttony.png",
+        "class": "rpr",
+        "level": 76,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 60.0
+    },
+    "27821": {
+        "name": "Enshroud",
+        "icon": "icon/reaper/enshroud.png",
+        "class": "rpr",
+        "level": 80,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 15.0
+    },
+    "32567": {
+        "name": "Void Reaping",
+        "icon": "icon/reaper/void_reaping.png",
+        "class": "rpr",
+        "level": 80,
+        "type": "Weaponskill",
+        "cast": 0,
+        "recast": 1.5
+    },
+    "32568": {
+        "name": "Cross Reaping",
+        "icon": "icon/reaper/cross_reaping.png",
+        "class": "rpr",
+        "level": 80,
+        "type": "Weaponskill",
+        "cast": 0,
+        "recast": 1.5
+    },
+    "32569": {
+        "name": "Grim Reaping",
+        "icon": "icon/reaper/grim_reaping.png",
+        "class": "rpr",
+        "level": 80,
+        "type": "Weaponskill",
+        "cast": 0,
+        "recast": 1.5
+    },
+    "24387": {
+        "name": "Soulsow",
+        "icon": "icon/reaper/soulsow.png",
+        "class": "rpr",
+        "level": 82,
+        "type": "Spell",
+        "cast": 0,
+        "recast": 0
+    },
+    "31381": {
+        "name": "Harvest Moon",
+        "icon": "icon/reaper/harvest_moon.png",
+        "class": "rpr",
+        "level": 82,
+        "type": "Spell",
+        "cast": 0,
+        "recast": 2.5
+    },
+    "29548": {
+        "name": "Lemure's Slice",
+        "icon": "icon/reaper/lemures_slice.png",
+        "class": "rpr",
+        "level": 86,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 1.0
+    },
+    "27816": {
+        "name": "Lemure's Scythe",
+        "icon": "icon/reaper/lemures_scythe.png",
+        "class": "rpr",
+        "level": 86,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 1.0
+    },
+    "29546": {
+        "name": "Plentiful Harvest",
+        "icon": "icon/reaper/plentiful_harvest.png",
+        "class": "rpr",
+        "level": 88,
+        "type": "Weaponskill",
+        "cast": 0,
+        "recast": 2.5
+    },
+    "32570": {
+        "name": "Communio",
+        "icon": "icon/reaper/communio.png",
+        "class": "rpr",
+        "level": 90,
+        "type": "Spell",
+        "cast": 1.3,
+        "recast": 2.5
+    },
+    "21306": {
+        "name": "Second Wind",
+        "icon": "icon/reaper/second_wind.png",
+        "class": "rpr",
+        "level": 8,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 120.0
+    },
+    "7863": {
+        "name": "Leg Sweep",
+        "icon": "icon/reaper/leg_sweep.png",
+        "class": "rpr",
+        "level": 10,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 40.0
+    },
+    "33013": {
+        "name": "Bloodbath",
+        "icon": "icon/reaper/bloodbath.png",
+        "class": "rpr",
+        "level": 12,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 90.0
+    },
+    "28324": {
+        "name": "Feint",
+        "icon": "icon/reaper/feint.png",
+        "class": "rpr",
+        "level": 22,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 90.0
+    },
+    "28322": {
+        "name": "Arm's Length",
+        "icon": "icon/reaper/arms_length.png",
+        "class": "rpr",
+        "level": 32,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 120.0
+    },
+    "7546": {
+        "name": "True North",
+        "icon": "icon/reaper/true_north.png",
+        "class": "rpr",
+        "level": 50,
+        "type": "Ability",
+        "cast": 0,
+        "recast": 45.0
+    }
+}
