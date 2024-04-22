@@ -2,6 +2,8 @@ import { nodeResolve } from "@rollup/plugin-node-resolve";
 import livereload from "rollup-plugin-livereload";
 import json from "@rollup/plugin-json";
 
+const isProd = process.env.BUILD_ENV === "prod";
+
 export default {
   input: "src/index.js",
   output: {
@@ -13,8 +15,9 @@ export default {
   plugins: [
     nodeResolve(),
     json(),
-    livereload({
-      watch: "public",
-    }),
+    !isProd &&
+      livereload({
+        watch: "public",
+      }),
   ],
 };

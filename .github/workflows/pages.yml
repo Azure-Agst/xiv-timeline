@@ -14,6 +14,8 @@ jobs:
   # Build Job
   build:
     runs-on: ubuntu-latest
+    env:
+      BUILD_ENV: prod
     steps:
       - name: Checkout w/ LFS
         uses: actions/checkout@v4
